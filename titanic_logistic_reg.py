@@ -6,7 +6,7 @@ import seaborn as sns
 
 #%% Load and check data
 
-df_train = pd.read_csv("C:/Users/7alta/OneDrive/Masaüstü/Spyder_Python/train.csv")
+df_train = pd.read_csv("C:/................./train.csv")
 print(df_train.info())
 
 #%% Edit data
